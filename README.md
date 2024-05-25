@@ -1,6 +1,6 @@
 # GLTF Viewer
 
-This is a React application to display a GLTF model using `three.js` and `@react-three/fiber`.
+This is a React application to render and display a GLTF model in browser using `three.js` and `@react-three/fiber`.
 
 ## Table of Contents
 
