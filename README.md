@@ -8,7 +8,7 @@ This is a React application to render and display a GLTF model in browser using 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Error](#error)
+- [Resolving Errors](#resolving-errors)
 
 
 ## Introduction
@@ -52,6 +52,8 @@ Follow these steps to clone and run the project locally:
     ```
 
 2. **Open your browser** and go to `http://localhost:3000` to view the application.
+
+## Resolving Errors
 
 ### `@mediapipe/tasks-vision` Error
 
