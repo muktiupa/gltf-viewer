@@ -53,3 +53,15 @@ Follow these steps to clone and run the project locally:
 
 2. **Open your browser** and go to `http://localhost:3000` to view the application.
 
+### `@mediapipe/tasks-vision` Error
+
+If you encounter an error related to the `vision_bundle_mjs.js.map` file in the `@mediapipe/tasks-vision` package, follow these steps:
+
+1. **Create a `.env` file in the root directory** and add the following line:
+
+    ```plaintext
+    GENERATE_SOURCEMAP=false
+    ```
+
+2. **Ensure the `.env` file is listed in `.gitignore`** to prevent it from being committed.
+
