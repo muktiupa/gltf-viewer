@@ -15,7 +15,10 @@ function App() {
         <directionalLight position={[10, 10, 5]} intensity={1} />
         <Model />
         <OrbitControls />
-        <h2>hello</h2>
+       <button>Up</button>
+       <button>down</button>
+       <button>left</button>
+       <button>right</button>
       </Canvas>
       
     </div>
